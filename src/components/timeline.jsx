@@ -9,7 +9,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <h2 className="colorlib-heading animate-box">Work Experience</h2>
               </div>
             </div>
             <div className="row">
@@ -18,33 +18,43 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
+                        <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
-                      </div>
+                        <h2>Software Engineer Intern, Squirrel AI Learning<span> 06/2019-08/2019</span></h2>
+                        <ul>
+                          <li>Supported the R&amp;D team to build an adaptive math tutoring platform targeting users who plan to participate in AMC 10/12.</li>
+                          <li>Designed and developed the platform in the form of a desktop application using Balsamiq, JavaFX, and MySQL.</li>
+                          <li>Hosted daily meeting and assigned tasks to members to ensure progress of the project using Jira.</li>
+                        </ul>
+                        </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
+                        <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Research Analyst Intern, Red Pulse<span> 06/2018-08/2018</span></h2>
+                        <ul>
+                          <li>Sourced, aggregated, and curated important daily developments in various sectors to provide insights on China’s capital markets for 50,000+ clients including JP Morgan and HSBC.</li>
+                          <li>Performed qualitative analysis on market events in technology and consumer sectors to supply clients with up-to-date market insights via Red Pulse platform and 4 financial data providers (Bloomberg, S&amp;P Global, FactSet, Thomson Reuters).</li>
+                        </ul>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
+                        <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Content Tutor, University of Virginia<span> 10/2017-12/2018</span></h2>
+                        <ul>
+                          <li>Tutored 15 student athletes at UVA in the subjects of Computer Science, Economics, Mathematics, and Statistics.</li>
+                          <li>Applied varioust teching skills, such as creating problem sets and forming discussion groups to keep students engaged</li>
+                        </ul>
                       </div>
                     </div>
                   </article>
