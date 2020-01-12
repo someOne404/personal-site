@@ -13,102 +13,53 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="row">
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(images/restaurant.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+										<h3><a href="https://github.com/someOne404/react2">Ristorante Con Fusion</a></h3>
+											<span>Restaurant Website</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="https://github.com/someOne404/react2"><i className="icon-github" /></a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<div className="project" style={{backgroundImage: 'url(images/lucky13b.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="https://lucky-13.herokuapp.com/home/">Skillmatcher</a></h3>
+											<span>Students Social Platform</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="https://github.com/someOne404/skillmatcher"><i className="icon-github" /></a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/financeapp.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="https://devpost.com/software/finance-tracker-1m0ats">Finance Tracker</a></h3>
+											<span>Finance Tracking App</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
-											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="https://github.com/someOne404/FinanceApp"><i className="icon-github" /></a></span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
 						</div>
+						{/* 
 						<div className="row">
 							<div className="col-md-12 animate-box">
 								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
 							</div>
 						</div>
+						*/}  
 					</div>
 				</section>
       </div>
