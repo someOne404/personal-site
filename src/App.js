@@ -6,6 +6,7 @@ import About from './components/about'
 import Timeline from './components/timeline'
 import Projects from './components/projects'
 import Skills from './components/skills'
+import Education from './components/education'
 class App extends Component {
   render() {
     return (
@@ -15,6 +16,7 @@ class App extends Component {
           <div id="colorlib-main">
             <Introduction></Introduction>
             <About></About>
+            <Education></Education>
             <Timeline></Timeline>
             <Projects></Projects>
             <Skills></Skills>

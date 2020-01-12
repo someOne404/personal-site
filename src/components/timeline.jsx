@@ -53,7 +53,7 @@ export default class Timeline extends Component {
                         <h2>Content Tutor, University of Virginia<span> 10/2017-12/2018</span></h2>
                         <ul>
                           <li>Tutored 15 student athletes at UVA in the subjects of Computer Science, Economics, Mathematics, and Statistics.</li>
-                          <li>Applied varioust teching skills, such as creating problem sets and forming discussion groups to keep students engaged</li>
+                          <li>Applied varioust teching skills, such as creating problem sets and forming discussion groups to keep students engaged.</li>
                         </ul>
                       </div>
                     </div>
