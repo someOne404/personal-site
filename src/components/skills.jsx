@@ -76,6 +76,7 @@ export default class Skills extends Component {
                                     </div>
                                 </div>
                                 <div className="skills">
+                                    <img src={require("../images/aws.png")} className="height3" alt="aws"/>
                                     <img src={require("../images/docker.png")} className="height3" alt="docker"/>
                                     <img src={require("../images/git.png")} className="height3" alt="git"/>
                                     <img src={require("../images/unix.png")} className="height3" alt="unix"/>
