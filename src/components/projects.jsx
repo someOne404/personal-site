@@ -13,14 +13,27 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="row">
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/restaurant.png)'}}>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<div className="project" style={{backgroundImage: 'url(images/videos.png)'}}>
 									<div className="desc">
 										<div className="con">
-										<h3><a href="https://github.com/someOne404/react2">Ristorante Con Fusion</a></h3>
-											<span>Restaurant Website</span>
+											<h3><a href="https://github.com/someOne404/react-videos">Video App</a></h3>
+											<span>Video App Using Youtube API</span>
 											<p className="icon">
-												<span><a href="https://github.com/someOne404/react2"><i className="icon-github" /></a></span>
+												<span><a href="https://github.com/someOne404/react-videos"><i className="icon-github" /></a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(images/pics.png)'}}>
+									<div className="desc">
+										<div className="con">
+										<h3><a href="https://github.com/someOne404/react-pics">Pictures App</a></h3>
+											<span>Pictures App Using Unsplash API</span>
+											<p className="icon">
+												<span><a href="https://github.com/someOne404/react-pics"><i className="icon-github" /></a></span>
 											</p>
 										</div>
 									</div>
@@ -39,6 +52,21 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
+						</div>
+						<div className="row">
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(images/restaurant.png)'}}>
+									<div className="desc">
+										<div className="con">
+										<h3><a href="https://github.com/someOne404/react2">Ristorante Con Fusion</a></h3>
+											<span>Restaurant Website</span>
+											<p className="icon">
+												<span><a href="https://github.com/someOne404/react2"><i className="icon-github" /></a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
 								<div className="project" style={{backgroundImage: 'url(images/financeapp.png)'}}>
 									<div className="desc">
@@ -52,14 +80,7 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-						</div>
-						{/* 
-						<div className="row">
-							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
-							</div>
-						</div>
-						*/}  
+						</div>  
 					</div>
 				</section>
       </div>

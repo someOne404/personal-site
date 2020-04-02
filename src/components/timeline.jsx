@@ -17,6 +17,21 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-briefcase3" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Engineer Intern, FitKinect, LLC<span> 03/2020-Present</span></h2>
+                        <ul>
+                          <li>Implement and update features of the company’s web application using React and Redux, Node.js, and PostgreSQL.</li>
+                          <li>Manage the application and set up a continuous deployment pipeline on AWS.</li>
+                          <li>Perform software quality assurance testing and participate in code reviews.</li>
+                        </ul>
+                        </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-briefcase3" />
                       </div>
