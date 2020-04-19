@@ -14,6 +14,19 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+								<div className="project" style={{backgroundImage: 'url(images/covid19-tracker.png)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="https://covid19-tracker-murex.now.sh/">Covid-19 Tracker</a></h3>
+											<span>A mapping app which tracks the impact Covid-19 has had on the world using coronavirus-tracker-api</span>
+											<p className="icon">
+												<span><a href="https://github.com/someOne404/covid19-tracker"><i className="icon-github" /></a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/videos.png)'}}>
 									<div className="desc">
 										<div className="con">
@@ -39,6 +52,8 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
+						</div>
+						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/lucky13b.png)'}}>
 									<div className="desc">
@@ -52,8 +67,6 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-						</div>
-						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 								<div className="project" style={{backgroundImage: 'url(images/restaurant.png)'}}>
 									<div className="desc">
