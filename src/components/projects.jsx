@@ -40,13 +40,13 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/pics.png)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Streamy.png)'}}>
 									<div className="desc">
 										<div className="con">
-										<h3><a href="https://github.com/someOne404/react-pics">Pictures App</a></h3>
-											<span>Pictures App Using Unsplash API</span>
+										<h3><a href="https://github.com/someOne404/streamy">Streamy</a></h3>
+											<span>A Live-Streaming App through RTMP Server</span>
 											<p className="icon">
-												<span><a href="https://github.com/someOne404/react-pics"><i className="icon-github" /></a></span>
+												<span><a href="https://github.com/someOne404/streamy"><i className="icon-github" /></a></span>
 											</p>
 										</div>
 									</div>
