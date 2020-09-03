@@ -17,15 +17,30 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-briefcase3" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Developer, GoTab, Inc.<span> 06/2020-Present</span></h2>
+                        <ul>
+                          <li>Develop an ordering and payment platform used by thousands of locations using Express, Marko.js, Redis, and PostgreSQL.</li>
+                          <li>Implemented key features such as international text messaging, video embedding, and client-facing announcements.</li>
+                          <li>Integrated third-party APIs including Bandwidth, 7Shifts, and MarginEdge to expand partnerships of the company and leverage user experience.</li>
+                        </ul>
+                        </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
                         <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer Intern, FitKinect, LLC<span> 03/2020-Present</span></h2>
+                        <h2>Software Engineer Intern, FitKinect, LLC<span> 03/2020-05/2020</span></h2>
                         <ul>
-                          <li>Implement and update features of the company’s web application using React and Redux, Node.js, and PostgreSQL.</li>
-                          <li>Manage the application and set up a continuous deployment pipeline on AWS.</li>
-                          <li>Perform software quality assurance testing and participate in code reviews.</li>
+                          <li>Implemented and updated features of the company’s web application using React and Redux, Node.js, and PostgreSQL.</li>
+                          <li>Managed the AWS cloud, deployed the app using EC2 and RDS services, and reduced the cost on cloud services by hundreds of dollars per month.</li>
+                          <li>Performed software quality assurance testing and participate in code reviews.</li>
                         </ul>
                         </div>
                     </div>
