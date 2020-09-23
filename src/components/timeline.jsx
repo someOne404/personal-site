@@ -23,8 +23,8 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Software Developer, GoTab, Inc.<span> 06/2020-Present</span></h2>
                         <ul>
-                          <li>Develop an ordering and payment platform used by thousands of locations using Express, Marko.js, Redis, and PostgreSQL.</li>
-                          <li>Implemented key features such as international text messaging, video embedding, and client-facing announcements.</li>
+                          <li>Develop an ordering and payment platform used by more than 500 locations using Express, Marko.js, Redis, and PostgreSQL.</li>
+                          <li>Implemented key features such as international text messaging, zero-dollar tabs, video embedding, and client-facing announcements.</li>
                           <li>Integrated third-party APIs including Bandwidth, 7Shifts, and MarginEdge to expand partnerships of the company and leverage user experience.</li>
                         </ul>
                         </div>
