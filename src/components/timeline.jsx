@@ -21,11 +21,11 @@ export default class Timeline extends Component {
                         <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Developer, GoTab, Inc.<span> 06/2020-Present</span></h2>
+                        <h2>Software Engineer, Intuit Inc.<span> 03/2021-Present</span></h2>
                         <ul>
-                          <li>Develop an ordering and payment platform used by more than 500 locations using Express, Marko.js, Redis, and PostgreSQL.</li>
-                          <li>Implemented key features such as international text messaging, zero-dollar tabs, video embedding, and client-facing announcements.</li>
-                          <li>Integrated third-party APIs including Bandwidth, 7Shifts, and MarginEdge to expand partnerships of the company and leverage user experience.</li>
+                          <li>Enabled users to refund from invoice page, smoothed the refunding experience, and reduced the possibility of transaction records mismatch.</li>
+                          <li>Improved the usability of deposit list, which had 300K+ views over 3 months.</li>
+                          <li>Enhanced QuickBooks Online’ s auto-reconciliation functionality, which impacted 200K merchants.</li>
                         </ul>
                         </div>
                     </div>
@@ -33,6 +33,21 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
+                        <i className="icon-briefcase3" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Developer, GoTab, Inc.<span> 06/2020-Present</span></h2>
+                        <ul>
+                          <li>Developed an ordering and payment platform used by more than 500 locations using Express, Marko.js, Redis, and PostgreSQL.</li>
+                          <li>Implemented key features such as international text messaging, zero-dollar tabs, video embedding, and client-facing announcements, covering millions of users.</li>
+                          <li>Integrated third-party APIs including Compeat, Bandwidth, 7Shifts, and MarginEdge to expand strategic partnerships of the company and leverage user experience.</li>
+                        </ul>
+                        </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
                         <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
@@ -47,7 +62,7 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-4">
                         <i className="icon-briefcase3" />
                       </div>
                       <div className="timeline-label">
@@ -58,34 +73,6 @@ export default class Timeline extends Component {
                           <li>Hosted daily meeting and assigned tasks to members to ensure progress of the project using Jira.</li>
                         </ul>
                         </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
-                        <i className="icon-briefcase3" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Research Analyst Intern, Red Pulse<span> 06/2018-08/2018</span></h2>
-                        <ul>
-                          <li>Sourced, aggregated, and curated important daily developments in various sectors to provide insights on China’s capital markets for 50,000+ clients including JP Morgan and HSBC.</li>
-                          <li>Performed qualitative analysis on market events in technology and consumer sectors to supply clients with up-to-date market insights via Red Pulse platform and 4 financial data providers (Bloomberg, S&amp;P Global, FactSet, Thomson Reuters).</li>
-                        </ul>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-briefcase3" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Content Tutor, University of Virginia<span> 10/2017-12/2018</span></h2>
-                        <ul>
-                          <li>Tutored 15 student athletes at UVA in the subjects of Computer Science, Economics, Mathematics, and Statistics.</li>
-                          <li>Applied various teaching skills, such as creating problem sets and forming discussion groups to keep students engaged.</li>
-                        </ul>
-                      </div>
                     </div>
                   </article>
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">

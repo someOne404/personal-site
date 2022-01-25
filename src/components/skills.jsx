@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import Fade from "react-reveal/Fade";
 import "../skill.css";
 
-// - Languages: Python, Javascript, Java, C++, R
-// - Frameworks: React, Django, vis.js, d3.js
+// - Languages: Java, Python, Javascript, C++, SQL, GraphQL
 // - Tools: AWS, Docker, Concourse, Git, Unix
+// - Others: React, Django, Bootstrap, jQuery, Node
 export default class Skills extends Component {
   render() {
     return (
@@ -49,6 +49,7 @@ export default class Skills extends Component {
                                 <img src={require("../images/javascript.png")} className="height3" alt="javascript" />
                                 <img src={require("../images/c++.png")} className="height3" alt="c++"/>
                                 <img src={require("../images/sql.png")} className="height3" alt="sql"/>
+                                <img src={require("../images/graphql.png")} className="height3" alt="graphql"/>
                                 </div>
                             </div>
                         </Fade>

@@ -48,7 +48,7 @@ export default class Introduction extends Component {
                                                 <p><strong>University of Virginia &emsp; 08/2016-12/2019</strong></p>
                                                 <p><strong>GPA: 3.94/4.0</strong></p>
                                                 <p>
-                                                    Relevant courses: Microeconomics, Macroeconomics, Econometrics, Theory of Financial Markets, Behavioral Finance, International Trade: Theory&amp;Policy
+                                                    Relevant courses: Microeconomics, Macroeconomics, Econometrics, Theory of Financial Markets, Behavioral Finance, International Trade: Theory &amp; Policy
                                                 </p>
                                             </div>
                                         </div>
